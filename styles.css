@@ -1,0 +1,16 @@
+links {
+  border: 1px solid #000;
+  width: 100%;
+}
+p {
+  width: 500px;
+  height: 600px;
+  border: 1px solid #000;
+  float: left;
+}
+side-bar {
+  width: 200px;
+  height: 600px;
+  border: 1px solid #000;
+  float: right;
+}
